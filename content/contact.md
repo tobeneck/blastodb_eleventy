@@ -19,7 +19,7 @@ Head of BlastoDB
 
 [start:box]
 
-![Inage of Dr Anastasios Tsaousis](https://media.www.kent.ac.uk/se/2569/tsaousis_400x400_inline.webp
+![Inage of Dr Anastasios Tsaousis](https://media.www.kent.ac.uk/se/2569/tsaousis_400x400_inline.webp)
 
 [end:box]
 
