@@ -63,6 +63,7 @@ module.exports = function (eleventyConfig) {
 
   // ─── Config ─────────────────────────────────────────────────────────────
   return {
+    pathPrefix: "/blastodb_eleventy/",
     dir: {
       input: "content",
       output: "output",
